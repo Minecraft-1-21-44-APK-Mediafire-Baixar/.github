@@ -32,22 +32,6 @@ Atualizar para o Minecraft 1.21.44 APK oferece vários benefícios:
 - **Experiência de Crafting Melhorada**: A interface de crafting atualizada torna a criação de itens mais simples, especialmente para novos jogadores.
 - **Geração de Mundo Otimizada**: Biomas aprimorados criam uma experiência mais imersiva com belas paisagens para explorar.
 
-### Como Instalar o Minecraft 1.21.44 APK no Android
-
-Baixar e instalar o Minecraft 1.21.44 APK é simples se você seguir estes passos cuidadosamente:
-
-#### Passo 1: Habilite Fontes Desconhecidas
-Como você estará instalando um arquivo APK de fora da Google Play Store, é necessário habilitar a instalação de apps de fontes desconhecidas. Para fazer isso, vá para **Configurações > Segurança** e ative a opção **Fontes Desconhecidas**.
-
-#### Passo 2: Baixe o Arquivo APK do Minecraft 1.21.44
-Encontre um site confiável para baixar o arquivo APK. É importante baixá-lo de uma fonte segura para garantir que o arquivo esteja livre de malwares. Salve o arquivo em uma pasta onde possa encontrá-lo facilmente.
-
-#### Passo 3: Instale o Arquivo APK
-Localize o arquivo APK baixado no **Gerenciador de Arquivos** do seu dispositivo e toque nele. Siga as instruções na tela para instalar o aplicativo. Esse processo pode levar alguns segundos para ser concluído.
-
-#### Passo 4: Inicie o Jogo
-Quando a instalação estiver concluída, abra o Minecraft 1.21.44 APK a partir da gaveta de aplicativos. Faça login com sua conta existente ou crie uma nova para começar a explorar os novos recursos e atualizações.
-
 ### Dicas para Jogar o Minecraft 1.21.44 APK
 
 - **Explore Novos Mobs**: Com novos animais e criaturas, há mais para descobrir em cada bioma. Experimente com os novos mobs, observe seus comportamentos e veja como eles interagem com o ambiente.
