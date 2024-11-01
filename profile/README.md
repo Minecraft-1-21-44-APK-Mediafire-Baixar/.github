@@ -1,3 +1,5 @@
+ ![hq720](https://github.com/user-attachments/assets/139c2a57-1647-4402-8818-bf966c1181c4)
+
 ### **Minecraft 1.21.44 APK: Novos Recursos, Atualizações e Guia de Instalação**
 
 Minecraft continua sendo um dos jogos de sandbox mais populares do mundo, com uma base de fãs de milhões que apreciam suas infinitas possibilidades criativas. Minecraft 1.21.44 APK é a atualização mais recente para jogadores mobile, trazendo novos recursos, correções de bugs e uma experiência de jogo aprimorada para aqueles que preferem jogar em dispositivos Android. Neste artigo, vamos abordar o que há de novo no Minecraft 1.21.44 APK, por que vale a pena baixá-lo e como instalá-lo no seu dispositivo.
